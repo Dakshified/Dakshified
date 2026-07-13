@@ -1,8 +1,4 @@
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Dakshified&label=Profile%20Views&color=58a6ff&style=flat-square" alt="Profile Views" />
-</p>
-
-# 👋 Hi there, I'm Daksh Bhardwaj!
+  Hi there, I'm Daksh Bhardwaj!
 
 **Machine Learning Engineer & Full-Stack Developer** based in Pune, India.  
 *Bridging the gap between intelligent algorithms and scalable user experiences.*
