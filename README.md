@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./github_banner.png" alt="Daksh Bhardwaj Banner" width="100%" />
+  <img src="./github_banner.png" alt="Daksh Bhardwaj Banner" width="75%" />
 </p>
 
 <p align="center">
@@ -18,17 +18,7 @@
 - 🎓 Pursuing B.Tech in **Computer Science (Artificial Intelligence)** at **Vishwakarma Institute of Technology, Pune** (Oct 2024 - Jun 2028 | CGPA: **9.06**)
 - 💼 Former Project Intern at **Mimamsa Education Network** (engineered core ReactJS/Redux web platforms and optimized RESTful API endpoints handling 1,000+ daily requests)
 - 🏆 **Hackathon Winner** at VIT Pune & finalist in 7 other national-level technical competitions
-- 🗣️ **Public Speaker** & 3-time Model United Nations (MUN) winner across the Pune circuit
-
----
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Dakshified&theme=onedark&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" width="100%" />
-  </a>
-</p>
+- 🗣️ **Public Speaking** & 3-time Model United Nations (MUN) winner across the Pune circuit
 
 ---
 
@@ -59,13 +49,13 @@
     <td width="50%" valign="top">
       <h4 align="center">⚡ Contribution Statistics</h4>
       <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=Dakshified&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" alt="GitHub Stats" width="100%" />
+        <img src="https://github-readme-stats-anuraghazra.vercel.app/api?username=Dakshified&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" alt="GitHub Stats" width="100%" />
       </p>
     </td>
     <td width="50%" valign="top">
       <h4 align="center">🔥 Language Summary</h4>
       <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dakshified&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" alt="Top Langs" width="100%" />
+        <img src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=Dakshified&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" alt="Top Langs" width="100%" />
       </p>
     </td>
   </tr>
