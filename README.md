@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="./github_banner.png" alt="Daksh Bhardwaj Banner" width="75%" />
+  <img src="./github_banner.png" alt="Daksh Bhardwaj Banner" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/Dakshified/count.svg" alt="Visitor Count" />
+  <img src="https://komarev.com/ghpvc/?username=Dakshified&label=Profile%20Views&color=58a6ff&style=flat-square" alt="Profile Views" />
 </p>
 
 # 👋 Hi there, I'm Daksh Bhardwaj!
@@ -18,56 +18,19 @@
 - 🎓 Pursuing B.Tech in **Computer Science (Artificial Intelligence)** at **Vishwakarma Institute of Technology, Pune** (Oct 2024 - Jun 2028 | CGPA: **9.06**)
 - 💼 Former Project Intern at **Mimamsa Education Network** (engineered core ReactJS/Redux web platforms and optimized RESTful API endpoints handling 1,000+ daily requests)
 - 🏆 **Hackathon Winner** at VIT Pune & finalist in 7 other national-level technical competitions
-- 🗣️ **Public Speaking** & 3-time Model United Nations (MUN) winner across the Pune circuit
+- 🗣️ **Public Speaker** & 3-time Model United Nations (MUN) winner across the Pune circuit
 
 ---
 
-### 📊 Dashboard Analytics
+### 📊 GitHub Activity & Analytics
 
-*Note: To activate the **Lines of Code (LOC)** analysis cards, please log in and authorize your profile at [githubtrends.io](https://githubtrends.io).*
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dakshified&theme=react-dark&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ff8b55&area=true&hide_border=true" alt="GitHub Activity Graph" width="100%" />
+</p>
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h4 align="center">💻 Lines of Code (LOC) by Language</h4>
-      <p align="center">
-        <a href="https://githubtrends.io">
-          <img src="https://api.githubtrends.io/user/svg/Dakshified/langs?theme=dark&loc_metric=changed" alt="LOC Languages" width="100%" />
-        </a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h4 align="center">📂 Active Repositories (LOC)</h4>
-      <p align="center">
-        <a href="https://githubtrends.io">
-          <img src="https://api.githubtrends.io/user/svg/Dakshified/repos?theme=dark&loc_metric=changed" alt="LOC Repos" width="100%" />
-        </a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4 align="center">⚡ Contribution Statistics</h4>
-      <p align="center">
-        <img src="https://github-readme-stats-anuraghazra.vercel.app/api?username=Dakshified&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" alt="GitHub Stats" width="100%" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h4 align="center">🔥 Language Summary</h4>
-      <p align="center">
-        <img src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=Dakshified&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" alt="Top Langs" width="100%" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" valign="top">
-      <h4 align="center">🔥 Commit Streak Metrics</h4>
-      <p align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dakshified&theme=dark&hide_border=true&background=0d1117&fire=ff8b55&ring=58a6ff&stroke=58a6ff&currStreakNum=58a6ff&sideNums=c9d1d9&sideLabels=c9d1d9&currStreakLabel=58a6ff" alt="GitHub Streak" width="100%" />
-      </p>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dakshified&theme=dark&hide_border=true&background=0d1117&fire=ff8b55&ring=58a6ff&stroke=58a6ff&currStreakNum=58a6ff&sideNums=c9d1d9&sideLabels=c9d1d9&currStreakLabel=58a6ff" alt="GitHub Streak" width="100%" />
+</p>
 
 ---
 
