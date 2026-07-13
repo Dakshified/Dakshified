@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="./github_banner.png" alt="Daksh Bhardwaj Banner" width="100%" />
-</p>
-
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=Dakshified&label=Profile%20Views&color=58a6ff&style=flat-square" alt="Profile Views" />
 </p>
 
