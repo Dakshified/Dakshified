@@ -1,16 +1,93 @@
+<!-- 
+  NOTE: To show the banner on your live GitHub profile, upload the banner image (interest_tech_banner.png) 
+  to your repository and replace the file:/// URL below with either:
+  1. ./interest_tech_banner.png (if placed in the root folder)
+  2. The raw URL of the uploaded image
+-->
+<p align="center">
+  <img src="file:///C:/Users/Daksh's pc/.gemini/antigravity/brain/496fe466-5df8-48f0-924b-b70a274efce3/interest_tech_banner_1783957029492.png" alt="Daksh's World Banner" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://profile-counter.glitch.me/Dakshified/count.svg" alt="Visitor Count" />
+</p>
+
 # 👋 Hi there, I'm Daksh Bhardwaj!
 
 **Machine Learning Engineer & Full-Stack Developer** based in Pune, India.  
-*Passionate about building intelligent AI systems, deep learning models, and high-performance web applications.*
+*Bridging the gap between intelligent algorithms and scalable user experiences.*
 
 ---
 
-### 🚀 About Me
+### 🌟 About Me & Interests
 
-- 🎓 Pursuing B.Tech in **Computer Science (Artificial Intelligence)** at **Vishwakarma Institute of Technology, Pune** (Oct 2024 - Jun 2028 | CGPA: **9.06**)
-- 💼 Former Project Intern at **Mimamsa Education Network** (engineered core ReactJS/Redux web platforms and optimized RESTful API endpoints handling 1,000+ daily requests)
-- 🏆 **Hackathon Winner** at VIT Pune & finalist in 7 other national-level technical competitions
-- 🗣️ **Public Speaker** & 3-time Model United Nations (MUN) winner across the Pune circuit
+Here is a quick look into my world (mirroring the banner above!):
+
+- 💻 **Coding & Tech**: Developing Machine Learning models, Deep Learning pipelines, and building scalable full-stack web applications.
+- 📚 **Academic Focus**: Pursuing B.Tech in **Computer Science (Artificial Intelligence)** at **VIT Pune** (CGPA: **9.06**).
+- 🎤 **Public Speaking**: Event coordinator, MUN enthusiast, and 3-time MUN winner across the Pune circuit.
+- 🏋️ **Gym & Fitness**: Strong advocate of physical fitness to maintain mental clarity and high cognitive performance.
+- 🎮 **E-Games**: Passionate about competitive gaming, strategy-based esports, and hardware setups.
+- ✈️ **Travel**: Enthusiastic about exploring new places, cultures, and gaining fresh perspectives.
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Dakshified&theme=onedark&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" width="100%" />
+  </a>
+</p>
+
+---
+
+### 📊 Dashboard Analytics
+
+To activate the **Lines of Code (LOC) Analysis** cards below, make sure to quickly authorize your profile at [githubtrends.io](https://githubtrends.io).
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4 align="center">💻 Lines of Code (LOC) by Language</h4>
+      <p align="center">
+        <a href="https://githubtrends.io">
+          <img src="https://api.githubtrends.io/user/svg/Dakshified/langs?theme=dark&loc_metric=changed" alt="LOC Languages" width="100%" />
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h4 align="center">📂 Active Repositories (LOC)</h4>
+      <p align="center">
+        <a href="https://githubtrends.io">
+          <img src="https://api.githubtrends.io/user/svg/Dakshified/repos?theme=dark&loc_metric=changed" alt="LOC Repos" width="100%" />
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4 align="center">⚡ Contribution Statistics</h4>
+      <p align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=Dakshified&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" alt="GitHub Stats" width="100%" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h4 align="center">🔥 Language Summary</h4>
+      <p align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dakshified&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" alt="Top Langs" width="100%" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h4 align="center">🔥 Commit Streak Metrics</h4>
+      <p align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dakshified&theme=dark&hide_border=true&background=0d1117&fire=ff8b55&ring=58a6ff&stroke=58a6ff&currStreakNum=58a6ff&sideNums=c9d1d9&sideLabels=c9d1d9&currStreakLabel=58a6ff" alt="GitHub Streak" width="100%" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -58,15 +135,10 @@
 
 ---
 
-### 📊 GitHub Analytics
+### 💡 Daily Dev Quote
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dakshified&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dakshified&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" alt="Top Langs" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dakshified&theme=dark&hide_border=true&background=0d1117&fire=ff8b55&ring=58a6ff&stroke=58a6ff&currStreakNum=58a6ff&sideNums=c9d1d9&sideLabels=c9d1d9&currStreakLabel=58a6ff" alt="GitHub Streak" width="97%" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Programming Quotes" />
 </p>
 
 ---
