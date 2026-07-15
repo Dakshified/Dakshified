@@ -28,11 +28,7 @@
 name: Daksh Bhardwaj
 role: CS (AI) Undergrad @ Vishwakarma Institute of Technology, Pune
 focus: [Machine Learning, Data Science, Full-Stack Development]
-cgpa: 9.06
-currently_building: SahAI & ElectroLens
-currently_learning: Deep Learning, Reinforcement Learning
 philosophy: "Turning messy data into intelligent, scalable software."
-fun_fact: "Reach 161k+ viewers monthly through content creation 🎙️"
 ```
 
 <br>
@@ -140,16 +136,6 @@ Personalized shortlist generator for Maharashtra CAP admission rounds.
 <img src="https://raw.githubusercontent.com/Dakshified/Dakshified/main/github-metrics.svg" width="100%"/>
 
 </div>
-
-<br>
-
-## 🐍 Contribution Snake
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/Dakshified/Dakshified/output/github-contribution-grid-snake.svg" width="100%"/>
-</div>
-
-<br>
 
 ## 🏆 Achievements
 
