@@ -1,114 +1,137 @@
-<!-- 
-  =============================================================
-  ⚡ DYNAMIC UPDATE WORKFLOW SETUP:
-  To make the "Recent GitHub Activity" section below update automatically:
-  1. In your GitHub repository (Dakshified/Dakshified), create a folder structure:
-     .github/workflows/
-  2. Inside that folder, create a file named:
-     update-readme.yml
-  3. Paste the following YAML code into that file:
+<div align="center">
 
-name: Update README Activity
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,100:0d1117&height=200&section=header&text=Daksh%20Bhardwaj&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Machine%20Learning%20%7C%20Data%20Science%20%7C%20Full-Stack%20Development&descAlignY=55&descSize=18" width="100%"/>
 
-on:
-  schedule:
-    - cron: '*/30 * * * *' # Runs every 30 minutes
-  workflow_dispatch:
+<a href="https://www.linkedin.com/in/daksh-bhardwaj-40b533331/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:bhardwajdaksh1409@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://github.com/Dakshified">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-jobs:
-  update-readme:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v3
-      - uses: jamesgeorge007/github-activity-readme@master
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+<img src="https://komarev.com/ghpvc/?username=Dakshified&label=Profile%20Views&color=58a6ff&style=for-the-badge" />
 
-  =============================================================
--->
+</div>
 
+<br>
 
-# 👋 Hello My name is Daksh Bhardwaj!
+### 💡 About Me
 
-**Machine Learning Engineer & Full-Stack Developer** based in Pune, India.  
-*Translating complex datasets into intelligent algorithms and scalable user experiences.*
-
-**[LinkedIn](https://www.linkedin.com/in/daksh-bhardwaj-40b533331/) | [Email](mailto:bhardwajdaksh1409@gmail.com) | [GitHub](https://github.com/Dakshified)**
+```yaml
+name: Daksh Bhardwaj
+role: CS (AI) Undergrad @ Vishwakarma Institute of Technology, Pune
+focus: [Machine Learning, Data Science, Full-Stack Development]
+cgpa: 9.06
+currently_building: SahAI & ElectroLens
+currently_learning: Deep Learning, Reinforcement Learning
+philosophy: "Turning messy data into intelligent, scalable software."
+fun_fact: "Reach 161k+ viewers monthly through content creation 🎙️"
+```
 
 ---
 
-### 💡 My Philosophy & "Why I Code"
+### 📂 Featured Projects
 
-I build machine learning models and full-stack software to transform massive datasets into clean, actionable, and intelligent tools. I believe that software engineering is a continuous loop of learning, optimization, and automation—writing code that doesn't just run, but makes systems faster, smarter, and more reliable.
+<table>
+<tr>
+<td width="50%" valign="top">
 
----
+**🔗 [Campus Trust](https://github.com/Dakshified/Blockchain-Project)**
+Blockchain-based certificate verification on Algorand (PyTeal + Flask). Cut verification time from days to **<10 seconds** across 300+ credentials with zero tampering.
 
-### 🎓 Education & Learning Log
+</td>
+<td width="50%" valign="top">
 
-- **B.Tech in Computer Science (Artificial Intelligence)** | Vishwakarma Institute of Technology, Pune (2024 - 2028 | CGPA: **9.06**)
-- 📖 **My Learning Log**: I document academic notes, deep dives into ML algorithms (such as Cross-Validation and Dimensionality Reduction), and LaTeX mathematical breakdowns in my public learning repositories.
+**🤖 [SahAI](https://github.com/Dakshified/SahAI)**
+ML-driven interview assessment pipeline using Sentence Transformers, spaCy & Random Forest. **87% scoring accuracy** across 250+ candidate responses.
 
----
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-### 📂 Featured Projects (The STAR & "Proof of Thought" Approach)
+**🔍 ElectroLens**
+Real-time electronic component recognition app (MobileNetV2 + Flutter + FastAPI + Gemini 1.5 Flash). **90.4% accuracy**, <200ms latency, industry-sponsored.
 
-Here are the signature projects that showcase my engineering methodology:
+</td>
+<td width="50%" valign="top">
 
-#### 🔗 Campus Trust — Blockchain Certificate Verification Platform
-*Decentralized credential ledger for secure institutional verification.*
-- **Situation/Task**: Establish a secure, instant, and tamper-proof verification channel for academic certificates to combat credential fraud.
-- **Action**: Architected a decentralized system on the Algorand blockchain using PyTeal smart contracts, implementing institutional role-based access control and optimized Flask backends.
-- **Result**: Reduced verification time from days to under 10 seconds across 300+ credentials with zero data tampering.
-- **💡 Key Challenge Faced**: Managing gas efficiency and complex transaction state on-chain with PyTeal's assembly-like constraints. Resolved this by optimizing state storage variables and using minimal TEAL opcodes.
+**📈 CAP Made Easy**
+College recommendation engine using Random Forest + Reinforcement Learning on 10,000+ Maharashtra CAP records, personalized shortlists for 400+ students. *(Published)*
 
-#### 🤖 SahAI — Your Placement Assistant
-*ML-driven interview assessment pipeline.*
-- **Situation/Task**: Automate the labor-intensive process of reviewing open-ended, technical interview responses for college placement drives.
-- **Action**: Developed an end-to-end NLP assessment pipeline. Leveraged Sentence Transformers for semantic response evaluation, spaCy for keyphrase detection, and a Random Forest model for overall speech and content scoring.
-- **Result**: Achieved an 87% scoring accuracy across 250+ candidate responses, automating workflows that previously required manual review.
-- **💡 Key Challenge Faced**: High vocabulary variance of candidate responses caused false-negatives in semantic scoring. Solved this by designing a hybrid scoring model that weights cosine-similarity of sentence embeddings alongside custom keyword presence.
-
-#### 🔍 ElectroLens — Hybrid AI Educational Platform
-*Real-time component recognition and adaptive quiz engine.*
-- **Situation/Task**: Provide students with an interactive, real-time tool for identifying and learning about electronic components on edge devices.
-- **Action**: Trained and compressed a MobileNetV2 computer vision model to identify 14 component categories. Deployed a FastAPI backend interfacing with a Flutter mobile app, integrated with Gemini 1.5 Flash for generating adaptive quizzes.
-- **Result**: Attained a 90.4% recognition accuracy with under 200ms latency, validated on-site with 30 student volunteers.
-- **💡 Key Challenge Faced**: High latency on low-end mobile devices. Solved this by implementing model quantization on the MobileNetV2 weights and caching Gemini prompt contexts on the backend.
-
-#### 📈 CAP MADE EASY — Perfect College Finder
-*Recommendation engine for college admissions.*
-- **Situation/Task**: Guide high school graduates through the complex, multi-round Maharashtra CAP college allocations.
-- **Action**: Built a recommendation engine using Random Forest and Reinforcement Learning, trained on a historic dataset of 10,000+ CAP round admission records.
-- **Result**: Successfully generated optimized college shortlists and choice codes for over 400 students.
-- **💡 Key Challenge Faced**: Overcoming data sparsity and class imbalance in student preferences. Solved this by applying synthetic minority over-sampling (SMOTE) to rare choices and using a custom reward function in the reinforcement learning model.
+</td>
+</tr>
+</table>
 
 ---
 
-### ⚡ Recent GitHub Activity
-<!-- The section below updates dynamically using GitHub Actions. Do not edit this manually. -->
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+### 🛠️ Tech Stack
+
+<div align="center">
+
+**Languages**
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+**ML / Data Science**
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+**Web & App**
+![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+**Databases & Tools**
+![MySQL](https://img.shields.io/badge/MySQL-00f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
 
 ---
 
 ### 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dakshified&theme=react-dark&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ff8b55&area=true&hide_border=true" alt="GitHub Activity Graph" width="100%" />
-</p>
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Dakshified&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dakshified&theme=tokyonight&hide_border=true" width="49%"/>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dakshified&theme=dark&hide_border=true&background=0d1117&fire=ff8b55&ring=58a6ff&stroke=58a6ff&currStreakNum=58a6ff&sideNums=c9d1d9&sideLabels=c9d1d9&currStreakLabel=58a6ff" alt="GitHub Streak" width="100%" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dakshified&layout=compact&theme=tokyonight&hide_border=true" width="49%"/>
+
+</div>
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dakshified&theme=tokyo-night&hide_border=true" width="100%"/>
+</div>
 
 ---
 
-### 🛠️ Tech Stack & Skills
+### 🏆 Achievements
 
-| Category | Technologies |
-| :--- | :--- |
-| **Languages** | ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=cplusplus&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-00758F?style=flat-square&logo=mysql&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) |
-| **ML & Data Science** | ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white) `Sentence Transformers` `spaCy` `Pandas` `NumPy` `PyTorch` |
-| **Web & App** | ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat-square&logo=redux&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat-square&logo=flask&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=flutter&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white) |
-| **Databases** | ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white) |
-| **Tools & DevOps** | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white) `LaTeX` |
+- 🥇 Winner — National Level Hackathon, VIT Pune (finalist in 7 other national competitions)
+- 🎤 Won 3 Model United Nations conferences across the Pune circuit
+- 🎥 Content creation reaching **161k+ unique viewers monthly**
+
+---
+
+<div align="center">
+
+<!-- Snake contribution animation - see setup note below -->
+<img src="https://raw.githubusercontent.com/Dakshified/Dakshified/output/github-contribution-grid-snake.svg" width="100%"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:58a6ff&height=100&section=footer" width="100%"/>
+
+</div>
