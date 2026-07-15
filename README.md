@@ -14,7 +14,7 @@
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+intelligent+systems+with+ML+%26+code;CS+(AI)+Undergrad+%40+VIT+Pune+%7C+CGPA+9.06;Turning+messy+data+into+scalable+software;Currently+building+SahAI+%26+ElectroLens+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+intelligent+systems+with+ML+%26+code;CS+(AI)+Undergrad+%40+VIT+Pune;Turning+messy+data+into+scalable+software; alt="Typing SVG" />
 
 <img src="https://komarev.com/ghpvc/?username=Dakshified&label=Profile%20Views&color=58a6ff&style=for-the-badge" />
 
