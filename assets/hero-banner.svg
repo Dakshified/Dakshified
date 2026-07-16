@@ -1,0 +1,51 @@
+<svg width="900" height="220" viewBox="0 0 900 220" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="50%" stop-color="#151a2e"/>
+      <stop offset="100%" stop-color="#0d1117"/>
+    </linearGradient>
+    <linearGradient id="nameGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#58a6ff"/>
+      <stop offset="100%" stop-color="#a855f7"/>
+    </linearGradient>
+    <filter id="soft" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="18"/>
+    </filter>
+  </defs>
+
+  <rect width="900" height="220" rx="14" fill="url(#bg)"/>
+
+  <g filter="url(#soft)" opacity="0.32">
+    <circle cx="120" cy="60" r="55" fill="#58a6ff">
+      <animate attributeName="cy" values="60;30;60" dur="7s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="800" cy="170" r="60" fill="#a855f7">
+      <animate attributeName="cy" values="170;140;170" dur="9s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <g>
+    <circle cx="60" cy="45" r="2" fill="#58a6ff">
+      <animate attributeName="opacity" values="0.2;1;0.2" dur="3s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="850" cy="50" r="2.5" fill="#a855f7">
+      <animate attributeName="opacity" values="1;0.2;1" dur="4s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="820" cy="190" r="2" fill="#3fb950">
+      <animate attributeName="opacity" values="0.3;1;0.3" dur="2.5s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <text x="450" y="100" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="44" font-weight="700" fill="url(#nameGrad)">
+    Daksh Bhardwaj
+  </text>
+
+  <text x="450" y="132" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#8b949e" letter-spacing="1.5">
+    MACHINE LEARNING &#183; DATA SCIENCE &#183; FULL-STACK DEVELOPMENT
+  </text>
+
+  <rect x="330" y="150" width="240" height="1" fill="#30363d"/>
+
+  
+</svg>
