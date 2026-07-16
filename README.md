@@ -1,65 +1,8 @@
 <div align="center">
 
-<svg width="900" height="220" viewBox="0 0 900 220" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#0d1117"/>
-      <stop offset="50%" stop-color="#151a2e"/>
-      <stop offset="100%" stop-color="#0d1117"/>
-    </linearGradient>
-    <linearGradient id="nameGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#58a6ff"/>
-      <stop offset="100%" stop-color="#a855f7"/>
-    </linearGradient>
-  </defs>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,50:a855f7,100:0d1117&height=200&section=header&text=Daksh%20Bhardwaj&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Machine%20Learning%20%7C%20Data%20Science%20%7C%20Full-Stack%20Development&descAlignY=55&descSize=17" width="100%"/>
 
-  <rect width="900" height="220" rx="14" fill="url(#bgGrad)"/>
-
-  <circle cx="120" cy="55" r="50" fill="#58a6ff" opacity="0.12">
-    <animate attributeName="cy" values="55;28;55" dur="7s" repeatCount="indefinite"/>
-  </circle>
-  <circle cx="800" cy="170" r="55" fill="#a855f7" opacity="0.12">
-    <animate attributeName="cy" values="170;145;170" dur="9s" repeatCount="indefinite"/>
-  </circle>
-
-  <circle cx="60" cy="45" r="2" fill="#58a6ff">
-    <animate attributeName="opacity" values="0.2;1;0.2" dur="3s" repeatCount="indefinite"/>
-  </circle>
-  <circle cx="850" cy="50" r="2.5" fill="#a855f7">
-    <animate attributeName="opacity" values="1;0.2;1" dur="4s" repeatCount="indefinite"/>
-  </circle>
-  <circle cx="820" cy="190" r="2" fill="#3fb950">
-    <animate attributeName="opacity" values="0.3;1;0.3" dur="2.5s" repeatCount="indefinite"/>
-  </circle>
-  <circle cx="40" cy="180" r="2" fill="#f78166">
-    <animate attributeName="opacity" values="1;0.3;1" dur="3.5s" repeatCount="indefinite"/>
-  </circle>
-
-  <text x="450" y="100" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="44" font-weight="700" fill="url(#nameGrad)">Daksh Bhardwaj</text>
-
-  <text x="450" y="132" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#8b949e" letter-spacing="1.5">MACHINE LEARNING &#183; DATA SCIENCE &#183; FULL-STACK DEVELOPMENT</text>
-
-  <rect x="330" y="150" width="240" height="1" fill="#30363d"/>
-
-  <g font-family="Consolas, Menlo, monospace" font-size="17" fill="#c9d1d9">
-    <text x="450" y="180" text-anchor="middle">
-      <tspan>B.Tech CS (AI), VIT Pune &#8212; CGPA 9.06</tspan>
-      <animate attributeName="opacity" values="0;1;1;0;0;0;0;0" keyTimes="0;0.05;0.20;0.25;0.9995;1;1;1" dur="16s" repeatCount="indefinite"/>
-    </text>
-    <text x="450" y="180" text-anchor="middle">
-      <tspan>National Hackathon Winner, VIT Pune</tspan>
-      <animate attributeName="opacity" values="0;0;0;0;1;1;0;0" keyTimes="0;0.25;0.25;0.30;0.35;0.45;0.50;1" dur="16s" repeatCount="indefinite"/>
-    </text>
-    <text x="450" y="180" text-anchor="middle">
-      <tspan>Published Researcher &#8212; ML College Recommendation Systems</tspan>
-      <animate attributeName="opacity" values="0;0;0;0;0;1;1;0" keyTimes="0;0.5;0.5;0.55;0.60;0.70;0.75;1" dur="16s" repeatCount="indefinite"/>
-    </text>
-    <text x="450" y="180" text-anchor="middle">
-      <tspan>161k+ Monthly Reach as a Content Creator</tspan>
-      <animate attributeName="opacity" values="0;0;0;0;0;0;0;1;1;0" keyTimes="0;0.75;0.75;0.80;0.85;0.90;0.95;0.97;0.999;1" dur="16s" repeatCount="indefinite"/>
-    </text>
-  </g>
-</svg>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=B.Tech+CS+(AI)%2C+VIT+Pune+%E2%80%94+CGPA+9.06;National+Hackathon+Winner%2C+VIT+Pune;Published+Researcher+%E2%80%94+ML+Recommendation+Systems;161k%2B+Monthly+Reach+as+a+Content+Creator" alt="Typing SVG" />
 
 <a href="https://www.linkedin.com/in/daksh-bhardwaj-40b533331/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -86,7 +29,7 @@ I'm a Computer Science undergraduate specializing in Artificial Intelligence at 
 **Project Intern — Mimamsa Education Network**, Pune, India
 *June 2025 – December 2025*
 
-- Engineered the Mimamsa web platform using ReactJS and Redux with component-based architecture, sustaining **1,000+ daily requests** at **&lt;200ms average response time**
+- Engineered the Mimamsa web platform using ReactJS and Redux with component-based architecture, sustaining **1,000+ daily requests** at **<200ms average response time**
 - Designed and documented **12+ RESTful API endpoints** with optimized backend data models, reducing average response time by **~35%**
 - Built and deployed a QR-code-based complaint management system in Python with real-time database sync, cutting manual resolution time by **~70%**
 
@@ -130,7 +73,7 @@ Built an interview assessment pipeline combining semantic answer evaluation, spe
 Built a real-time electronic component recognition system paired with an adaptive quiz engine, validated with 30 student volunteers.
 
 - **90.4% recognition accuracy** across 14 component categories
-- **&lt;200ms inference latency**
+- **<200ms inference latency**
 - `MobileNetV2` `Flutter` `FastAPI` `Gemini 1.5 Flash`
 
 </td>
@@ -155,40 +98,7 @@ Developed a personalized college shortlisting engine trained on Maharashtra CAP 
 
 <div align="center">
 
-<svg width="460" height="400" viewBox="0 0 460 400" xmlns="http://www.w3.org/2000/svg">
-  <rect width="460" height="400" fill="#0d1117"/>
-
-  <defs>
-    <linearGradient id="fillGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#58a6ff" stop-opacity="0.55"/>
-      <stop offset="100%" stop-color="#a855f7" stop-opacity="0.55"/>
-    </linearGradient>
-  </defs>
-
-  <polygon points="240,70 352.58,135 352.58,265 240,330 127.42,265 127.42,135" fill="none" stroke="#30363d" stroke-width="1"/>
-  <polygon points="240,113.4 315,156.7 315,243.3 240,286.6 165,243.3 165,156.7" fill="none" stroke="#21262d" stroke-width="1"/>
-  <polygon points="240,156.7 277.5,178.35 277.5,221.65 240,243.3 202.5,221.65 202.5,178.35" fill="none" stroke="#21262d" stroke-width="1"/>
-
-  <line x1="240" y1="200" x2="240" y2="70" stroke="#30363d" stroke-width="1"/>
-  <line x1="240" y1="200" x2="352.58" y2="135" stroke="#30363d" stroke-width="1"/>
-  <line x1="240" y1="200" x2="352.58" y2="265" stroke="#30363d" stroke-width="1"/>
-  <line x1="240" y1="200" x2="240" y2="330" stroke="#30363d" stroke-width="1"/>
-  <line x1="240" y1="200" x2="127.42" y2="265" stroke="#30363d" stroke-width="1"/>
-  <line x1="240" y1="200" x2="127.42" y2="135" stroke="#30363d" stroke-width="1"/>
-
-  <polygon points="240,83 341.3,141.5 330.1,252 240,291 161.2,245.5 138.7,141.5" fill="url(#fillGrad)" stroke="#58a6ff" stroke-width="2" opacity="0">
-    <animate attributeName="opacity" from="0" to="1" dur="1.4s" begin="0.2s" fill="freeze"/>
-  </polygon>
-
-  <g font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#c9d1d9">
-    <text x="240" y="45" text-anchor="middle">Machine Learning</text>
-    <text x="374" y="123" text-anchor="start">Data Science</text>
-    <text x="374" y="282" text-anchor="start">Full-Stack Dev</text>
-    <text x="240" y="362" text-anchor="middle">Cloud &amp; DevOps</text>
-    <text x="106" y="282" text-anchor="end">Blockchain</text>
-    <text x="106" y="123" text-anchor="end">Leadership</text>
-  </g>
-</svg>
+<img src="https://quickchart.io/chart?c=%7B%22type%22%3A%20%22radar%22%2C%20%22data%22%3A%20%7B%22labels%22%3A%20%5B%22Machine%20Learning%22%2C%20%22Data%20Science%22%2C%20%22Full-Stack%20Dev%22%2C%20%22Cloud%20%26%20DevOps%22%2C%20%22Blockchain%22%2C%20%22Leadership%22%5D%2C%20%22datasets%22%3A%20%5B%7B%22label%22%3A%20%22Skill%20Level%22%2C%20%22data%22%3A%20%5B90%2C%2090%2C%2080%2C%2070%2C%2070%2C%2090%5D%2C%20%22backgroundColor%22%3A%20%22rgba%2888%2C166%2C255%2C0.4%29%22%2C%20%22borderColor%22%3A%20%22%2358a6ff%22%2C%20%22borderWidth%22%3A%202%2C%20%22pointBackgroundColor%22%3A%20%22%23a855f7%22%2C%20%22pointRadius%22%3A%204%7D%5D%7D%2C%20%22options%22%3A%20%7B%22scales%22%3A%20%7B%22r%22%3A%20%7B%22angleLines%22%3A%20%7B%22color%22%3A%20%22%2330363d%22%7D%2C%20%22grid%22%3A%20%7B%22color%22%3A%20%22%2330363d%22%7D%2C%20%22pointLabels%22%3A%20%7B%22color%22%3A%20%22%23c9d1d9%22%2C%20%22font%22%3A%20%7B%22size%22%3A%2013%7D%7D%2C%20%22ticks%22%3A%20%7B%22display%22%3A%20false%7D%2C%20%22min%22%3A%200%2C%20%22max%22%3A%20100%7D%7D%2C%20%22plugins%22%3A%20%7B%22legend%22%3A%20%7B%22display%22%3A%20false%7D%7D%7D%7D&backgroundColor=%230d1117&width=460&height=380" width="460"/>
 
 <img src="https://skillicons.dev/icons?i=python,cpp,c,js,html,tailwind,react,flask,fastapi,flutter,mysql,mongodb,sqlite,git,github,docker,aws,vscode&theme=dark&perline=9" />
 
@@ -218,7 +128,8 @@ District Topper — highest score in the district
 |---|---|
 | 🏆 **Hackathon** | Winner, National Level Hackathon — VIT Pune · Finalist in 7 other national technical competitions |
 | 📄 **Publication** | Research on ML-based college recommendation systems (CAP Made Easy) |
-| 🎤 **Public Speaking** | Won Multiple Model United Nations conferences across the Pune circuit |
+| 🎤 **Public Speaking** | Won 3 Model United Nations conferences across the Pune circuit |
+| 📢 **Content Creation** | Reaching 161k+ unique viewers monthly |
 
 <br>
 
