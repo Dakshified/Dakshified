@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,50:a855f7,100:0d1117&height=220&section=header&text=Daksh%20Bhardwaj&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Machine%20Learning%20%7C%20Data%20Science%20%7C%20Full-Stack%20Development&descAlignY=52&descSize=18" width="100%"/>
+<img src="https://raw.githubusercontent.com/Dakshified/Dakshified/main/assets/hero-banner.svg" width="100%"/>
 
 <a href="https://www.linkedin.com/in/daksh-bhardwaj-40b533331/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -8,13 +8,9 @@
 <a href="mailto:bhardwajdaksh1409@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<a href="https://github.com/Dakshified">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="tel:+919022682627">
+  <img src="https://img.shields.io/badge/Pune,_India-181717?style=for-the-badge&logo=googlemaps&logoColor=white"/>
 </a>
-
-<br><br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+intelligent+systems+with+ML+%26+code;CS+(AI)+Undergrad+%40+VIT+Pune;Turning+messy+data+into+scalable+software; alt="Typing SVG" />
 
 <img src="https://komarev.com/ghpvc/?username=Dakshified&label=Profile%20Views&color=58a6ff&style=for-the-badge" />
 
@@ -22,88 +18,73 @@
 
 <br>
 
-## 💡 About Me
-
-```yaml
-name: Daksh Bhardwaj
-role: CS (AI) Undergrad @ Vishwakarma Institute of Technology, Pune
-focus: [Machine Learning, Data Science, Full-Stack Development]
-philosophy: "Turning messy data into intelligent, scalable software."
-```
+I'm a Computer Science undergraduate specializing in Artificial Intelligence at Vishwakarma Institute of Technology, Pune, working across machine learning, applied data science, and full-stack engineering. My work spans building production-grade ML pipelines, deploying blockchain-based verification systems, and shipping full-stack platforms handling real production traffic — several of which are industry-sponsored or published.
 
 <br>
 
-## 🛠️ Tech Stack
+## Experience
 
-<div align="center">
+**Project Intern — Mimamsa Education Network**, Pune, India
+*June 2025 – December 2025*
 
-<img src="https://skillicons.dev/icons?i=python,cpp,c,js,html,tailwind,react,flask,fastapi,flutter,mysql,mongodb,sqlite,git,github,docker,aws,vscode&theme=dark&perline=9" />
-
-<br><br>
-
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
-
-</div>
+- Engineered the Mimamsa web platform using ReactJS and Redux with component-based architecture, sustaining **1,000+ daily requests** at **&lt;200ms average response time**
+- Designed and documented **12+ RESTful API endpoints** with optimized backend data models, reducing average response time by **~35%**
+- Built and deployed a QR-code-based complaint management system in Python with real-time database sync, cutting manual resolution time by **~70%**
 
 <br>
 
-## 📂 Featured Projects
+## Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🔗 [Campus Trust](https://github.com/Dakshified/Blockchain-Project)
-**Blockchain Certificate Verification**
+### [Campus Trust](https://github.com/Dakshified/Blockchain-Project)
+**Blockchain Certificate Verification Platform**
 
-Decentralized credential ledger on Algorand (PyTeal + Flask) with tamper-proof on-chain transactions.
+Architected a tamper-proof credential verification system on Algorand using PyTeal and Flask, with role-based access control for issuing institutions.
 
-`Reduced verification time from days to <10 seconds across 300+ credentials, zero tampering.`
-
-`Algorand` `PyTeal` `Flask`
+- Reduced verification time from days to **under 10 seconds**
+- Verified **300+ credentials** with **zero tampering incidents**
+- `Algorand` `PyTeal` `Flask` `Smart Contracts`
 
 </td>
 <td width="50%" valign="top">
 
-### 🤖 [SahAI](https://github.com/Dakshified/SahAI)
-**AI Placement Assistant**
+### [SahAI](https://github.com/Dakshified/SahAI)
+**ML-Driven Placement Assistant**
 
-ML-driven interview assessment pipeline for semantic answer evaluation and speech scoring.
+Built an interview assessment pipeline combining semantic answer evaluation, speech scoring, and keyword detection to automate candidate review.
 
-`87% scoring accuracy across 250+ candidate responses.`
-
-`Sentence Transformers` `spaCy` `Random Forest`
+- **~87% scoring accuracy** across 250+ candidate responses
+- Automated workflows previously requiring manual review
+- `Sentence Transformers` `spaCy` `Random Forest`
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🔍 ElectroLens
-**Hybrid AI Educational Platform** · *Industry-sponsored*
+### ElectroLens
+**Hybrid AI Educational Platform** — *Industry-sponsored*
 
-Real-time electronic component recognition with adaptive quiz engine.
+Built a real-time electronic component recognition system paired with an adaptive quiz engine, validated with 30 student volunteers.
 
-`90.4% accuracy across 14 categories, <200ms latency.`
-
-`MobileNetV2` `Flutter` `FastAPI` `Gemini 1.5`
+- **90.4% recognition accuracy** across 14 component categories
+- **&lt;200ms inference latency**
+- `MobileNetV2` `Flutter` `FastAPI` `Gemini 1.5 Flash`
 
 </td>
 <td width="50%" valign="top">
 
-### 📈 CAP Made Easy
-**College Recommendation Engine** · *Published*
+### CAP Made Easy
+**College Recommendation Engine** — *Published*
 
-Personalized shortlist generator for Maharashtra CAP admission rounds.
+Developed a personalized college shortlisting engine trained on Maharashtra CAP admission round data, combining supervised and reinforcement learning.
 
-`Random Forest + RL on 10,000+ records, 400+ students served.`
-
-`Random Forest` `Reinforcement Learning`
+- Trained on **10,000+ historical CAP records**
+- Delivered personalized shortlists to **400+ students**
+- `Random Forest` `Reinforcement Learning`
 
 </td>
 </tr>
@@ -111,7 +92,48 @@ Personalized shortlist generator for Maharashtra CAP admission rounds.
 
 <br>
 
-## 📊 GitHub Analytics
+## Skills
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/Dakshified/Dakshified/main/assets/skills-radar.svg" width="440"/>
+</div>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,cpp,c,js,html,tailwind,react,flask,fastapi,flutter,mysql,mongodb,sqlite,git,github,docker,aws,vscode&theme=dark&perline=9" />
+
+**ML & Data:** scikit-learn · TensorFlow · Pandas · NumPy · Feature Engineering · Time Series Analysis
+
+</div>
+
+<br>
+
+## Education
+
+**B.Tech, Computer Science (Artificial Intelligence)** — Vishwakarma Institute of Technology, Pune
+`Oct 2024 – Jun 2028` · CGPA: **9.06**
+Coursework: Data Structures & Algorithms, Machine Learning, Deep Learning
+
+**CBSE Class XII** — Podar International School, Chinchwad — `2023` · 87%
+Taught Web Development; built a developer club website with live API integration
+
+**CBSE Class X** — Podar International School, Hingoli — `2021` · 96.6%
+District Topper — highest score in the district
+
+<br>
+
+## Achievements & Recognition
+
+| | |
+|---|---|
+| 🏆 **Hackathon** | Winner, National Level Hackathon — VIT Pune · Finalist in 7 other national technical competitions |
+| 📄 **Publication** | Research on ML-based college recommendation systems (CAP Made Easy) |
+| 🎤 **Public Speaking** | Won 3 Model United Nations conferences across the Pune circuit |
+| 📢 **Content Creation** | Reaching 161k+ unique viewers monthly |
+
+<br>
+
+## GitHub Analytics
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Dakshified&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117" width="49%"/>
@@ -120,34 +142,12 @@ Personalized shortlist generator for Maharashtra CAP admission rounds.
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dakshified&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" width="49%"/>
 <img src="https://github-profile-trophy.vercel.app/?username=Dakshified&theme=tokyonight&no-frame=true&row=1&column=4&margin-w=8" width="49%"/>
 
-</div>
-
-<div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dakshified&theme=tokyo-night&hide_border=true&bg_color=0d1117" width="100%"/>
 </div>
 
 <br>
 
-## 🧊 3D Contribution Calendar
-
 <div align="center">
-
-<!-- Generated by lowlighter/metrics GitHub Action — see setup note below -->
-<img src="https://raw.githubusercontent.com/Dakshified/Dakshified/main/github-metrics.svg" width="100%"/>
-
-</div>
-
-## 🏆 Achievements
-
-- 🥇 Winner — National Level Hackathon, VIT Pune (finalist in 7 other national competitions)
-- 🎤 Won 3 Model United Nations conferences across the Pune circuit
-- 🎥 Content creation reaching **161k+ unique viewers monthly**
-
-<br>
-
-<div align="center">
-
-### 💬 Let's Connect
 
 <a href="https://www.linkedin.com/in/daksh-bhardwaj-40b533331/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -155,9 +155,5 @@ Personalized shortlist generator for Maharashtra CAP admission rounds.
 <a href="mailto:bhardwajdaksh1409@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:a855f7,100:58a6ff&height=120&section=footer" width="100%"/>
 
 </div>
