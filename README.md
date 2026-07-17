@@ -159,7 +159,6 @@ Turning ideas into fast, reliable software that creates real-world impact.
 
 <br>
 
-**ML & Data:** scikit-learn · TensorFlow · Pandas · NumPy · Feature Engineering · Time Series Analysis
 
 </div>
 
