@@ -94,13 +94,70 @@ Developed a personalized college shortlisting engine trained on Maharashtra CAP 
 
 <br>
 
-## Skills
+<br>
+
+## ⚡ Engineering DNA
 
 <div align="center">
 
-<img src="https://quickchart.io/chart?c=%7B%22type%22%3A%20%22radar%22%2C%20%22data%22%3A%20%7B%22labels%22%3A%20%5B%22Machine%20Learning%22%2C%20%22Data%20Science%22%2C%20%22Full-Stack%20Dev%22%2C%20%22Cloud%20%26%20DevOps%22%2C%20%22Blockchain%22%2C%20%22Leadership%22%5D%2C%20%22datasets%22%3A%20%5B%7B%22label%22%3A%20%22Skill%20Level%22%2C%20%22data%22%3A%20%5B90%2C%2090%2C%2080%2C%2070%2C%2070%2C%2090%5D%2C%20%22backgroundColor%22%3A%20%22rgba%2888%2C166%2C255%2C0.4%29%22%2C%20%22borderColor%22%3A%20%22%2358a6ff%22%2C%20%22borderWidth%22%3A%202%2C%20%22pointBackgroundColor%22%3A%20%22%23a855f7%22%2C%20%22pointRadius%22%3A%204%7D%5D%7D%2C%20%22options%22%3A%20%7B%22scales%22%3A%20%7B%22r%22%3A%20%7B%22angleLines%22%3A%20%7B%22color%22%3A%20%22%2330363d%22%7D%2C%20%22grid%22%3A%20%7B%22color%22%3A%20%22%2330363d%22%7D%2C%20%22pointLabels%22%3A%20%7B%22color%22%3A%20%22%23c9d1d9%22%2C%20%22font%22%3A%20%7B%22size%22%3A%2013%7D%7D%2C%20%22ticks%22%3A%20%7B%22display%22%3A%20false%7D%2C%20%22min%22%3A%200%2C%20%22max%22%3A%20100%7D%7D%2C%20%22plugins%22%3A%20%7B%22legend%22%3A%20%7B%22display%22%3A%20false%7D%7D%7D%7D&backgroundColor=%230d1117&width=460&height=380" width="460"/>
+<table>
+<tr>
 
-<img src="https://skillicons.dev/icons?i=python,cpp,c,js,html,tailwind,react,flask,fastapi,flutter,mysql,mongodb,sqlite,git,github,docker,aws,vscode&theme=dark&perline=9" />
+<td width="25%" align="center">
+
+### 🧠 Think
+
+Building intelligent systems powered by machine learning, deep learning, and modern AI techniques.
+
+</td>
+
+<td width="25%" align="center">
+
+### ⚙️ Engineer
+
+Designing scalable full-stack applications with clean architecture and production-ready APIs.
+
+</td>
+
+<td width="25%" align="center">
+
+### 🔬 Innovate
+
+Exploring blockchain, computer vision, recommendation systems, and applied AI research.
+
+</td>
+
+<td width="25%" align="center">
+
+### 🚀 Deliver
+
+Turning ideas into fast, reliable software that creates real-world impact.
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=python,cpp,c,js,html,css,tailwind,react,flask,fastapi,flutter,mysql,mongodb,sqlite,git,github,docker,aws,vscode&theme=dark&perline=9"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Machine%20Learning-58A6FF?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Deep%20Learning-A855F7?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/Data%20Science-22C55E?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Computer%20Vision-F59E0B?style=for-the-badge&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/NLP-E11D48?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Blockchain-6366F1?style=for-the-badge&logo=ethereum&logoColor=white"/>
+
+<br><br>
+
+> *"Building software that is intelligent, scalable, and built to last."*
+
+</div>
+
+<br>
 
 **ML & Data:** scikit-learn · TensorFlow · Pandas · NumPy · Feature Engineering · Time Series Analysis
 
