@@ -20,6 +20,12 @@
 
 <br>
 
+<p align="center">
+I like turning ideas into working software — mostly ML models, APIs, and the occasional blockchain experiment.
+</p>
+
+<br>
+
 <div align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="100%"/>
 </div>
