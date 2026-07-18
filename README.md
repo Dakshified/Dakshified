@@ -14,6 +14,14 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
+<img src="https://komarev.com/ghpvc/?username=Dakshified&label=Profile%20Views&color=58a6ff&style=for-the-badge" />
+
+</div>
+
+<br>
+
+<div align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="100%"/>
 </div>
 
 <br>
@@ -30,23 +38,18 @@
 
 <br>
 
-## Projects
-
-- **[Campus Trust](https://github.com/Dakshified/Blockchain-Project)** — Blockchain certificate verification on Algorand (PyTeal, Flask); credential checks reduced from days to under 10 seconds.
-- **[SahAI](https://github.com/Dakshified/SahAI)** — ML interview-assessment pipeline using Sentence Transformers & spaCy for semantic scoring.
-- **ElectroLens** — Real-time electronic component recognition (MobileNetV2, Flutter, FastAPI) with adaptive quizzing.
-- **CAP Made Easy** — College recommendation engine combining Random Forest and reinforcement learning on admissions data.
-
-<br>
-
 ## GitHub Analytics
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Dakshified&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117" width="49%"/>
-<img src="https://streak-stats.demolab.com/?user=Dakshified&theme=tokyonight&hide_border=true&background=0d1117" width="49%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dakshified&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" width="49%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dakshified&theme=github_dark" width="100%"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dakshified&theme=github_dark" width="49%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dakshified&theme=github_dark" width="49%"/>
+
+<img src="https://streak-stats.demolab.com/?user=Dakshified&theme=tokyonight&hide_border=true&background=0d1117" width="49%"/>
 <img src="https://github-profile-trophy.vercel.app/?username=Dakshified&theme=tokyonight&no-frame=true&row=1&column=4&margin-w=8" width="49%"/>
+
 </div>
 
 </div>
