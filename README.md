@@ -22,21 +22,13 @@ $ ./run_diagnostics.sh --target Daksh
 
 > Booting personality module...
 > Role        : CS(AI) Undergrad @ Vishwakarma Institute of Technology, Pune
-> CGPA        : 9.06 / 10  [OVERCLOCKED]
+> CGPA        : 9.06 
 > Class       : Machine Learning Engineer × Full-Stack Developer
 > Status      : Turns messy datasets into things that actually work
 > Personality : builds first, sleeps later, ships anyway
 ```
 
-<details>
-<summary><b>💭 click to decode: why I code</b></summary>
-<br>
 
-I treat software like a lab notebook that fights back. Every project starts as a *"can this even be done?"* and ends as a working proof-of-concept nobody asked for but everyone secretly needed. I don't just want code that runs — I want it faster, smarter, and slightly show-off-y.
-
-If you ask me a question, there's a 70% chance I'll answer with a Random Forest model instead of an opinion.
-
-</details>
 
 
 ---
