@@ -26,7 +26,6 @@ $ ./run_diagnostics.sh --target Daksh
 > Class       : Machine Learning Engineer × Full-Stack Developer
 > Status      : Turns messy datasets into things that actually work
 > Personality : builds first, sleeps later, ships anyway
-> Catchphrase : "it's not a bug, it's an undocumented feature"
 ```
 
 <details>
@@ -39,21 +38,10 @@ If you ask me a question, there's a 70% chance I'll answer with a Random Forest 
 
 </details>
 
-<details>
-<summary><b>⚡ click to decode: the type of person I am</b></summary>
-<br>
-
-- 🔬 The one who benchmarks the benchmark before trusting the benchmark
-- 🌙 3 AM debugging sessions where the bug turns out to be a missing semicolon
-- 🧩 Will architect a blockchain solution before checking if a spreadsheet would've worked
-- 📈 Believes every problem has a model, a metric, and a `.ipynb` waiting to be written
-- ☕ Fuelled by curiosity, caffeine, and an unreasonable love for clean commit messages
-
-</details>
 
 ---
 
-## 🚀 things I've built so I didn't have to explain them in an interview
+## 🚀 things I've built
 
 <table>
 <tr>
@@ -143,13 +131,10 @@ Random Forest + Reinforcement Learning engine trained on 10,000+ historical admi
 
 ---
 
-## 🐍 code, eat, sleep, commit, repeat
-
 <div align="center">
 <img src="https://raw.githubusercontent.com/Dakshified/Dakshified/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </div>
 
-> ⚙️ **Setup note:** the snake animation above needs a one-time GitHub Action. See the enable-instructions below.
 
 ---
 
