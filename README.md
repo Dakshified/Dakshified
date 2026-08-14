@@ -10,7 +10,7 @@
 
 ### Currently
 
-Third-year CS (AI) student at Vishwakarma Institute of Technology, Pune (CGPA 9.06). Right now most of my time is going into **GATE CSE 2027 prep**, aiming for an M.Tech seat at an IIT — so shipped output is intentionally lower this stretch. Before and after this, I build ML pipelines and full-stack systems, not just notebooks.
+Third-year CS (AI) student at Vishwakarma Institute of Technology, Pune (CGPA 9.06).I build ML pipelines and full-stack systems, not just notebooks.
 
 ---
 
