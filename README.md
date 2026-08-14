@@ -1,142 +1,73 @@
-<div align="center">
+# Hi, I'm Daksh Bhardwaj 👋
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:58a6ff,100:0d1117&height=220&section=header&text=Daksh%20Bhardwaj&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Machine%20Learning%20%7C%20Full-Stack%20%7C%20Chaos%20Engineer&descAlignY=58&descSize=18" width="100%"/>
+I am a B.Tech Computer Science (AI) student at the Vishwakarma Institute of Technology, Pune (Graduating 2028 | CGPA 9.06). I build software systems and machine learning pipelines, focusing on performance, speed, and real-world utility.
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=sudo+rm+-rf+%2Fdoubts;while(alive)+%7B+learn()%3B+build()%3B+break_things()%3B+%7D;git+commit+-m+%22it+works+on+my+machine%22" alt="Typing SVG" />
-</a>
-
-[![GitHub followers](https://img.shields.io/github/followers/Dakshified?label=Follow&style=social)](https://github.com/Dakshified)
-[![Profile Views](https://komarev.com/ghpvc/?username=Dakshified&color=58a6ff&style=flat-square&label=Profile+Views)](https://github.com/Dakshified)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daksh-bhardwaj-40b533331/)
-[![Email](https://img.shields.io/badge/Email-Say%20Hi-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:bhardwajdaksh1409@gmail.com)
-
-</div>
+### 🎯 Current Focus
+I am currently a 3rd-year student intensely preparing for **GATE CSE (February 2027)** with the goal of pursuing an M.Tech at an IIT via COAP. Because my primary focus is academic prep right now, my daily GitHub green graph might look a bit lighter, but I am actively consolidating my foundational computer science knowledge.
 
 ---
 
-## 🧠 whoami
+### 🚀 Featured Projects
 
-```bash
-$ ./run_diagnostics.sh --target Daksh
-
-> Booting personality module...
-> Role        : CS(AI) Undergrad @ Vishwakarma Institute of Technology, Pune
-> CGPA        : 9.06 
-> Class       : Machine Learning Engineer × Full-Stack Developer
-> Status      : Turns messy datasets into things that actually work
-> Personality : builds first, sleeps later, ships anyway
-```
-
-
-
+*   **ElectroLens** – An industry-sponsored, real-time electronic component recognition app built with MobileNetV2, Flutter, FastAPI, and Gemini 1.5 Flash. It achieves 90.4% accuracy across 14 component categories with sub-200ms latency, validated by 30 student volunteers.
+*   **CAP Made Easy** – A college recommendation engine utilizing Random Forest and Reinforcement Learning trained on over 10,000 Maharashtra CAP records, generating automated shortlists for 400+ students. This work is published in **IEEE** ([Read the Paper](https://ieeexplore.ieee.org/document/11434285)).
+*   **Campus Trust** – A blockchain-based certificate verification system deployed on Algorand using PyTeal and Flask. It dropped credential verification times from days to under 10 seconds across 300+ issued credentials with zero tampering incidents.
+*   **SahAI** – An ML-driven interview assessment pipeline leveraging Sentence Transformers, spaCy, and Random Forest for semantic answer scoring and speech evaluation, hitting an ~87% scoring accuracy across a 250+ response dataset.
 
 ---
 
-## 🚀 things I've built
+### 💼 Technical Experience
 
-<table>
-<tr>
-<td width="50%">
-
-### 🔗 Campus Trust
-**Blockchain Certificate Verification**
-Decentralized credential ledger on Algorand using PyTeal smart contracts. Cut verification time from days → **under 10 seconds** across 300+ credentials, zero tampering.
-
-`Algorand` `PyTeal` `Flask`
-
-</td>
-<td width="50%">
-
-### 🤖 SahAI
-**Your Placement Assistant**
-NLP pipeline scoring open-ended interview responses using Sentence Transformers + spaCy + Random Forest. **87% accuracy** across 250+ candidates.
-
-`NLP` `Sentence-Transformers` `spaCy`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🔍 ElectroLens
-**Hybrid AI Educational Platform**
-Quantized MobileNetV2 for real-time electronic component recognition + Gemini-powered adaptive quizzes. **90.4% accuracy**, sub-200ms latency.
-
-`MobileNetV2` `FastAPI` `Flutter` `Gemini`
-
-</td>
-<td width="50%">
-
-### 📈 CAP MADE EASY
-**College Admission Recommender**
-Random Forest + Reinforcement Learning engine trained on 10,000+ historical admission records. Helped **400+ students** find their fit.
-
-`Random Forest` `RL` `SMOTE`
-
-</td>
-</tr>
-</table>
+**Project Intern | Mimamsa Education Network** *(Jun 2025 – Dec 2025)*
+*   Built the core web platform using React and Redux, successfully handling 1000+ daily requests with response times under 200ms.
+*   Designed and documented 12+ REST API endpoints, optimizing database queries to cut system response times by approximately 35%.
+*   Developed an automated QR-code complaint management system in Python, reducing manual resolution overhead by roughly 70%.
 
 ---
 
-## 🛠️ arsenal
+### 🛠️ Tech Stack
 
-<div align="center">
+**Languages & Core**
+![Python](https://shields.io)
+![C](https://shields.io)
+![C++](https://shields.io)
+![JavaScript](https://shields.io)
+![SQL](https://shields.io)
 
-![Python](https://img.shields.io/badge/-Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+**Machine Learning & Data Science**
+![scikit-learn](https://shields.io)
+![PyTorch](https://shields.io)
+![TensorFlow](https://shields.io)
+![Pandas](https://shields.io)
+![NumPy](https://shields.io)
 
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![scikit--learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+**Web Frameworks & Databases**
+![React](https://shields.io)
+![Redux](https://shields.io)
+![FastAPI](https://shields.io)
+![Flask](https://shields.io)
+![MySQL](https://shields.io)
+![MongoDB](https://shields.io)
+![SQLite](https://shields.io)
 
-![React](https://img.shields.io/badge/-React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
-![FastAPI](https://img.shields.io/badge/-FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-
-![Docker](https://img.shields.io/badge/-Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-</div>
-
----
-
-## 📊 the receipts
-
-<div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Dakshified&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Dakshified&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
-</div>
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dakshified&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff" width="100%"/>
-</div>
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+**DevOps & Cloud Tools**
+![Docker](https://shields.io)
+![AWS EC2](https://shields.io)
+![AWS S3](https://shields.io)
+![Git](https://shields.io)
 
 ---
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/Dakshified/Dakshified/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-</div>
+### 🏆 Achievements
 
+*   Won 1 national-level hackathon at VIT Pune and placed as a finalist in 7 other national technical competitions.
+*   Won 3 Model United Nations (MUN) conferences.
+*   Run educational/technical content creation reaching over 161k unique monthly viewers.
 
 ---
 
-<div align="center">
+### 🤝 Let's Connect
 
-### 📡 let's build something absurd together
-
-[![LinkedIn](https://img.shields.io/badge/-Connect-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/daksh-bhardwaj-40b533331/)
-[![Gmail](https://img.shields.io/badge/-Email%20Me-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:bhardwajdaksh1409@gmail.com)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:58a6ff,100:0d1117&height=100&section=footer" width="100%"/>
-
-</div>
+*   **LinkedIn:** [linkedin.com/in/daksh-bhardwaj-40b533331](https://linkedin.com)
+*   **GitHub:** [github.com/Dakshified](https://github.com)
+*   **Email:** bhardwajdaksh1409@gmail.com
